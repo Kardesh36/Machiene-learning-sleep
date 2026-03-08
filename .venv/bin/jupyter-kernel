@@ -1,4 +1,4 @@
-#!/Users/joshuakabel/Documents/Source/Repos/machinelearning/.venv/bin/python3.12
+#!/Users/joshuakabel/Desktop/machinelearningfix/Machiene-learning-sleep/.venv/bin/python
 import sys
 from jupyter_client.kernelapp import main
 if __name__ == '__main__':

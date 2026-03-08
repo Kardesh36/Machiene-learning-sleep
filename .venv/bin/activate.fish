@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /Users/joshuakabel/Documents/Source/Repos/machinelearning/.venv
+set -gx VIRTUAL_ENV /Users/joshuakabel/Desktop/machinelearningfix/Machiene-learning-sleep/.venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
